@@ -20,7 +20,7 @@ Hermes Agent.
 ## Install
 
 ```bash
-hermes plugins install Xquik-dev/hermes-tweet
+hermes plugins install Xquik-dev/hermes-tweet --enable
 ```
 
 Set `XQUIK_API_KEY` before live reads. Set
